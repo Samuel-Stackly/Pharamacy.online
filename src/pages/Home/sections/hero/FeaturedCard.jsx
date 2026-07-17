@@ -1,5 +1,5 @@
 import { ArrowRight } from "lucide-react";
-import { featuredProduct } from "./heroData";
+import { featuredProduct } from "./herodata";
 
 function FeaturedCard() {
   return (
