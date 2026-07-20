@@ -1,6 +1,6 @@
 import { Star } from "lucide-react";
 
-import { products } from "./heroData";
+import { products } from "./herodata";
 
 function ProductList() {
   return (

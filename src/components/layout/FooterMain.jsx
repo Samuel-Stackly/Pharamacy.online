@@ -8,7 +8,7 @@ import {
 } from "react-icons/fi";
 
 import Container from "../common/Container";
-import logo from "../../assets/icons/logo.svg";
+import logo from "../../assets/icons/Logo.svg";
 
 const companyLinks = [
   "Pickup from pharmacies",

@@ -1,5 +1,5 @@
 import { ArrowRight } from "lucide-react";
-import { heroBanner } from "./heroData";
+import { heroBanner } from "./herodata";
 
 function HeroBanner() {
   return (

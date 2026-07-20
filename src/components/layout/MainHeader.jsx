@@ -8,7 +8,7 @@ import {
 
 import { useState } from "react";
 import Container from "../common/Container";
-import logo from "../../assets/icons/logo.svg";
+import logo from "../../assets/icons/Logo.svg";
 import { Link } from "react-router-dom";
 
 function MainHeader({ isMenuOpen, setIsMenuOpen }) {

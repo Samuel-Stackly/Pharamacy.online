@@ -1,4 +1,4 @@
-import { heroBanner } from "./heroData";
+import { heroBanner } from "./herodata";
 
 function HeroImage() {
   return (
